@@ -16,5 +16,5 @@ lektor deploy ghpages
 ```
 
 # Адрес размещения
-https://flatdragon.github.io/lector-portfolio/
+https://flatdragon.github.io/lektor-portfolio/
 
