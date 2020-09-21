@@ -5,4 +5,4 @@ name = lektor-portfolio
 name = Production
 enabled = yes
 default = yes
-target = ghpages://flatdragon/lektor-portfolio
+target = ghpages+https://flatdragon/lektor-portfolio

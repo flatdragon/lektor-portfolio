@@ -1,13 +1,18 @@
 # Управление
 
-Локальный запуск сайта:
+Локальный запуск проекта:
 ```shell script
 lektor server
 ```
 
-Построение и деплой на GitHub Pages:
+Построение проекта:
 ```shell script
-lektor build && lektor deploy
+lektor build
+```
+
+Деплой на GitHub Pages:
+```shell script
+lektor deploy ghpages
 ```
 
 # Адрес размещения
