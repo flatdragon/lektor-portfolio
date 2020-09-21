@@ -1,0 +1,8 @@
+[project]
+name = lektor-portfolio
+
+[servers.ghpages]
+name = Production
+enabled = yes
+default = yes
+target = ghpages://flatdragon/lektor-portfolio
